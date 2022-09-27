@@ -8,7 +8,7 @@
 
 :clipboard: [프로젝트 링크](https://mystudylibrary.pe.kr)
 
-* 참고사항: 보안상 letsencrypt에서 발급받은 ssl인증서를 적용했고 비밀번호는 암호화돼서 저장됩니다.
+* 참고사항: 보안상 letsencrypt에서 발급받은 ssl 인증서를 적용했고 비밀번호는 암호화돼서 저장됩니다.
 
 <br>
 
@@ -17,7 +17,7 @@
 
 개인 프로젝트입니다.
 
-사용자의 지역을 입력하면 그 지역의 도서관이 검색되는 복지 사이트 입니다.
+사용자의 지역을 입력하면 그 지역의 도서관이 검색되는 복지 사이트입니다.
 
 각 도서관 페이지에 평점, 후기를 남길 수 있고 사이트 사용자들끼리 커뮤니티 글을 공유할 수 있습니다.
 
@@ -116,13 +116,13 @@ ovenapp.io 툴 이용했습니다.
 
 <br>
 
-## :green_book: 문제점과 해결방안
+## :green_book: 문제점과 해결 방안
 
 기존에 구현해 둔 백엔드 서버와 연결하면서 생긴 문제도 해당 항목에 포함했습니다.
 
- :clipboard: [문제와 해결방안1](https://www.notion.so/myStudyLibrary-1-ce02d0c21c894e679ef855a4ad6b17aa)
+ :clipboard: [문제와 해결 방안 1](https://www.notion.so/myStudyLibrary-1-ce02d0c21c894e679ef855a4ad6b17aa)
  
- :clipboard: [문제와 해결방안2](https://www.notion.so/myStudyLibrary-2-f347d23512254d15a90abf3f47675e26)
+ :clipboard: [문제와 해결 방안 2](https://www.notion.so/myStudyLibrary-2-f347d23512254d15a90abf3f47675e26)
  
  
 <br>
@@ -176,7 +176,7 @@ ovenapp.io 툴 이용했습니다.
 ![image](https://user-images.githubusercontent.com/98700133/173556571-32a8c660-eff9-4266-a008-936e9f6e1cb4.png)
 
 
-    * 자유게시판 로그인 안한 상태로 글작성 버튼 눌렀을 때
+    * 자유게시판 로그인 안한 상태로 글 작성 버튼 눌렀을 때
 ![image](https://user-images.githubusercontent.com/98700133/173557989-2999d02b-3cf5-4253-a658-9ec6b0309619.png)
 
 
