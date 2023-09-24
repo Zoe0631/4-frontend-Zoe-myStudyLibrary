@@ -1,4 +1,4 @@
-# 4-frontend-Zoe-myStudyLibrary
+# frontend-Zoe-myStudyLibrary
 
 ## :books: 내 주변의 도서관 찾는 사이트 :books:
 
